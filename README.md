@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joseph-Ebuka
 - 👀 I’m interested in ... react and next.js jsx,tsx and so 
-- 🌱 I’m currently learning ... react and next.js
+- 🌱 I’m currently working on react projects 
 - 💞️ I’m looking to collaborate on ... any big web development project 
 - 📫 How to reach me ... +2349042350500 or ebukaj665@gmail.com
 
