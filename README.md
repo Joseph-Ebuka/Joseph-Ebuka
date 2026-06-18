@@ -8,7 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Lagos Nigeria
 * ✉️  You can contact me at [ebukaj665@gmail.com](mailto:ebukaj665@gmail.com)
-* 🚀  I'm currently working on [Note taking app](http://create-note-taupe.vercel.app/)
 * 🧠  I'm learning Astro | Next js
 * 🤝  I'm open to collaborating on Software projects with any web based framework
 
