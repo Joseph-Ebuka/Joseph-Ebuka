@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Ebuka
 ====================================================================================================================================
 
-# Software developer | Web developer
+# Software developer | Web developer| Mobile Developer
 ----------------------------------
 
-### A dedicated front-end developer with a strong focus on crafting seamless and interactive user experiences. My expertise lies in leveraging the power of React.js and Next.js to build dynamic web applications
+### A dedicated Software engineer with a strong focus on crafting seamless and interactive user experiences. My expertise lies in leveraging the power of React.js and Next.js to build dynamic web applications
 
 * 🌍  I'm based in Lagos Nigeria
 * ✉️  You can contact me at [ebukaj665@gmail.com](mailto:ebukaj665@gmail.com)
-* 🧠  I'm learning Astro | Next js
-* 🤝  I'm open to collaborating on Software projects with any web based framework
+* 🧠  I'm learning Goland| Rust
+* 🤝  I'm open to collaborating on Software projects with any  based framework
 
 ## Skills
 
