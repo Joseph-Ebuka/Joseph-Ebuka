@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Software developer | Web developer| Mobile Developer
 ----------------------------------
 
-### A dedicated Software engineer with a strong focus on crafting seamless and interactive user experiences. My expertise lies in leveraging the power of React.js and Next.js to build dynamic web applications
+### A dedicated Software engineer with a strong focus on crafting seamless and interactive user experiences. My expertise lies in leveraging various technologies to build web apps/sites, Mobile apps/MDM apps/ Backend systems/APIs
 
 * 🌍  I'm based in Lagos Nigeria
 * ✉️  You can contact me at [ebukaj665@gmail.com](mailto:ebukaj665@gmail.com)
 * 🧠  I'm learning Goland| Rust
-* 🤝  I'm open to collaborating on Software projects with any  based framework
+* 🤝  I'm open to collaborating on Software projects with any framework
 
 ## Skills
 
